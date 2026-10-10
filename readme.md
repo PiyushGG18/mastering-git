@@ -1,4 +1,5 @@
-##  Heyoo everyone, welcome to by Git guide
+##  Welcome to Git!
 
 - Yo, Jacob here!
-- I'm adding this from 'feature-branch'
+- This is coming from `dev-chandler`
+- I'm adding this from `feature-branch`
